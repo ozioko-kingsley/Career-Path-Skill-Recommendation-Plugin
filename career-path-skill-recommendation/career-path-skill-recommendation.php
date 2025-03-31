@@ -5,7 +5,7 @@
  * Version: 1.0
  * Author: Kingsley Ozioko
  * Author URI: https://skilllink.infinityfreeapp.com/
- * GitHub: https://github.com/ozioko-kingsley/
+ * GitHub: https://github.com/ozioko-kingsley/Career-Path-Skill-Recommendation-Plugin
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
