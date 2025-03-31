@@ -1,0 +1,43 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Career Path Skill Recommendation 1.0\n"
+"POT-Creation-Date: 2025-04-01\n"
+"PO-Revision-Date: 2025-04-01\n"
+"Last-Translator: Kingsley Ozioko\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+
+#: includes/admin-settings.php:10
+msgid "Career Path Settings"
+msgstr ""
+
+#: includes/admin-settings.php:11
+msgid "Career Skills"
+msgstr ""
+
+#: includes/admin-settings.php:12
+msgid "Manage Career Paths"
+msgstr ""
+
+#: includes/admin-settings.php:13
+msgid "Add Career Path"
+msgstr ""
+
+#: includes/frontend-display.php:9
+msgid "Select a Career Path"
+msgstr ""
+
+#: includes/frontend-display.php:15
+msgid "Get Skills"
+msgstr ""
+
+#: includes/frontend-display.php:20
+msgid "Recommended Skills:"
+msgstr ""
+
+#: includes/frontend-display.php:26
+msgid "No skills found for this career path."
+msgstr ""
