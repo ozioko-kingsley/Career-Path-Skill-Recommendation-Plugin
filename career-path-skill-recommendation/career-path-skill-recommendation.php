@@ -58,4 +58,12 @@ function cpsr_display_recommended_skills( $career_path ) {
         echo '<p>No recommendations available for this career path.</p>';
     }
 }
+
+function cpsr_display_form() {
+    ob_start();
+    include plugin_dir_path(__FILE__) . 'includes/frontend-display.php';
+    return ob_get_clean();
+}
+add_shortcode('career_skills_display', 'cpsr_display_form');
+
 ?>
