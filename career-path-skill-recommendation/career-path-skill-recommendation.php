@@ -64,6 +64,7 @@ function cpsr_display_form() {
     include plugin_dir_path(__FILE__) . 'includes/frontend-display.php';
     return ob_get_clean();
 }
-add_shortcode('career_skills_display', 'cpsr_display_form');
+add_shortcode('career_skills_display', 'cpsr_display_skill_recommendations');
+
 
 ?>
