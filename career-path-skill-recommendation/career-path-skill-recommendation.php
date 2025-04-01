@@ -24,7 +24,7 @@ function cpsr_display_skill_recommendations() {
                 <option value="data_scientist">Data Scientist</option>
                 <option value="graphic_designer">Graphic Designer</option>
             </select>
-            <input type="submit" value="Get Recommendations">
+            <input style="margin: 1rem auto;" type="submit" value="Get Recommendations">
         </form>
 
         <?php
