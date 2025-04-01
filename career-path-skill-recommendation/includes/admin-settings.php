@@ -36,8 +36,14 @@ function cpsr_settings_page() {
             $career_paths = get_option( 'cpsr_career_paths', array(
                 'web_developer' => 'Web Developer',
                 'data_scientist' => 'Data Scientist',
-                'graphic_designer' => 'Graphic Designer'
+                'graphic_designer' => 'Graphic Designer',
+                'cybersecurity_analyst' => 'Cybersecurity Analyst',
+                'digital_marketer' => 'Digital Marketer',
+                'mobile_app_developer' => 'Mobile App Developer',
+                'cloud_engineer' => 'Cloud Engineer',
+                'ai_engineer' => 'AI Engineer'
             ));
+            
             ?>
             <h3>Manage Career Paths</h3>
             <table>
